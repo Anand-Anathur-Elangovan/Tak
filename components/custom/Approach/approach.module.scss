@@ -1,0 +1,25 @@
+.approach {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  width: 100% !important;
+  background-image: url('../../../assets/image/approach/background.png');
+  background-size: cover;
+  height: 83.33333333333333vw;
+  width: 100% !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgb(178, 172, 162);
+
+  .header {
+    color: rgb(178, 172, 162) !important;
+  }
+
+  .info {
+    width: 50%;
+  }
+
+  .values {
+    width: 50%;
+  }
+}

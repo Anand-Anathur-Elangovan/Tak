@@ -1,0 +1,22 @@
+.homeContainer {
+  background-image: url("../../../assets/image/home/background.png");
+  background-size: cover;
+  height: 83.33333333333333vw;
+  width: 100% !important;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  .customHeaderHome {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+// h1.ui.header.home_customHeaderHome__8qxrt {
+//   color: #ffff !important;
+// }
+// .ui.header:last-child {
+//   margin-bottom: 0;
+//   color: white;
+// }
